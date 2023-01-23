@@ -3,7 +3,7 @@ Receiving product user data with php
 
 DanLoans
 
-*php (version 2.5.10)+*
+*php (version 2.5.8.10)+*
 
 **Please change the root that is in the username and password to change to my account my php version 2.5.10 that you applied in order to make that code run.**
 
